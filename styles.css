@@ -23,7 +23,7 @@ html {
 
 body {
   font-family: "Open Sans", sans-serif;
-  background: var(--light-blue);
+  background: linear-gradient(#8ec127,#278ec1 );
 }
 
 p {
